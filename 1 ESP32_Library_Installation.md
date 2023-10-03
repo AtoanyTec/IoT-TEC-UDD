@@ -26,7 +26,12 @@
     
     ![ESP32_library](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/f37879bb-2da1-4598-a1e0-05024ee1bbe7)
     
-15. sdsd
+15. Select the ESP32 board in **Tools > Board >  DOIT ESP32 DEVKIT V1**
+    
+    ![DOITKIT](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/967f2be6-e96e-4099-870c-45cd3d194004)
+    
+17. Select the corresponding port. If you do not see COM port, please install [CP210x Windows Drivers] (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+
 
 
 
