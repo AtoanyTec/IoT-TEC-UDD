@@ -31,6 +31,31 @@
     ![DOITKIT](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/967f2be6-e96e-4099-870c-45cd3d194004)
     
 17. Select the corresponding port. If you do not see COM port, please install [CP210x Windows Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+    
+    ![PORT](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/b6eb360a-c36d-4e79-ba3a-51214bc0054b)
+    
+20. Open the following example file in File > Examples > WiFi (ESP32) > WiFiScan
+    
+    ![wifiscan](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/640cf33b-9f09-4237-a28f-c8654f44daaf)
+    
+22. The example sketch will open
+    
+    ![sketch_open](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/f4903d0c-d670-4c47-be3d-b3c476b262ee)
+    
+24. Upload the sketch using the Upload button in the Arduino IDE. After uploading, you should see the "Done uploading" message
+    
+    ![done_uploading](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/c979409a-db1b-4b68-8311-c604edd4f7cf)
+    
+26. Open the Serial Monitor. You should see the following
+    
+    ![wifi_scan_result](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/2956e0e1-ddc9-4be3-a4c1-cd4672658958)
+    
+
+
+
+
+
+
 
 
 
