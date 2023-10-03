@@ -30,7 +30,7 @@
     
     ![DOITKIT](https://github.com/AtoanyTec/IoT-TEC-UDD/assets/73314754/967f2be6-e96e-4099-870c-45cd3d194004)
     
-17. Select the corresponding port. If you do not see COM port, please install [CP210x Windows Drivers] (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+17. Select the corresponding port. If you do not see COM port, please install [CP210x Windows Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 
 
